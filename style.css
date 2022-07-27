@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+}
+
+.instructor-table {
+    width: 90%;
+    margin: auto;
+    background: rgba(255, 255, 255, 0.8);
+    text-align: left;
+    border: 4px solid rgba(0, 0, 0, 0.1);
+    padding: 15px;
+}
+
+.instructor-table th {
+    height: 50px;
+    border-bottom: 4px solid rgba(0, 0, 0, 0.1);
+}
+
+.instructor-table td {
+    height: 35px;
+}
+
+button {
+    height: 20px;
+    width: auto;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    color: yellow;
+    background: white;
+}
